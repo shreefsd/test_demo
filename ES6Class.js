@@ -24,4 +24,4 @@ s.updateUrl("https://api.com/api/hello");
 console.log(s.isSecure());
 
 console.log(s.url);
-module.export={API}
+module.exports={API}
